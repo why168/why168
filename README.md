@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://cdn.jsdelivr.net/gh/why168/resources@master/blog/hello_word_gif.gif" width="30%">
   <br><br>
   <samp>
     I'm Edwin :wave:
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   <i> Let's connect and chat! :incoming_envelope: edwin.wu05@gmail.com</i>
 </p>
 <p align="center">
-  <a href="https://t.me/master0055"><img src="https://telegram.org/favicon.ico" alt="Telegram"> </a>
+  <a href="https://t.me/master0055"><img src="https://cdn.jsdelivr.net/gh/why168/resources@master/blog/t_logo.svg" alt="Telegram" width="10%"> </a>
 </p>
