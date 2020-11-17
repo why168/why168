@@ -27,8 +27,15 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=why168&layout=compact&theme=nord"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=why168&layout=compact&theme=nord" alt="Top Langs" width="35%"> </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=why168&show_icons=true&hide_title=true&theme=nord"><img src="https://github-readme-stats.vercel.app/api?username=why168&show_icons=true&hide_title=true&theme=nord" alt="github stats" width="50%"> </a>
+</p>
+
+<p align="center">
   <i> Let's connect and chat! :incoming_envelope: edwin.wu05@gmail.com</i>
 </p>
+
+
 <p align="center">
   <a href="https://t.me/master0055"><img src="https://cdn.jsdelivr.net/gh/why168/resources@master/blog/t_logo.svg" alt="Telegram" width="5%"> </a>
 </p>
