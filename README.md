@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <samp>
     I'm Edwin :wave:
     <br><br>
-    I'm write Android, Java, Golang! nearly 6 years
+    I have 7 years of experience in programming.
     <br>
   </samp>
 </p>
